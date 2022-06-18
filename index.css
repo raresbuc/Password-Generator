@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: #FFFFFF;
+    margin: 0px 50px;
+}
+
+h3 {
+    color: #D5D4D8;
+}
+
+#btn {
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background: #10B981;
+    color: #FFFFFF;
+}
+
+#line {
+    margin-top: 50px;
+    border-bottom: 2px solid #2F3E53;
+}
+
+#passwords {
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    background: #273549;
+    border: 10px solid #273549;
+}
